@@ -1,2 +1,2 @@
 # hello-world
-Start my GitHub
+开始我的Github之旅
